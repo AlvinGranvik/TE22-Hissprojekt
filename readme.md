@@ -4,8 +4,6 @@ Alvin Granvik 2025-02-28
 
 ## Inledning
 
-Här beskriver du kortfattat arbetets syfte/mål, arbetssätt, genomförande.
-
 Målet som fanns med vårt projekt var helt enkelt att skapa en fullkomligt fungerande fysisk modell av en hiss. Detta gjorde jag i en grupp med Axel Waldenborg och Robin Eriksson. I genomförandet av detta projekt så har vi programmerat koden för hissen via Arduino IDE, 3d printat en modell för hissen och kombinerat dem två för att skapa en slutprodukt.
 
 ## Bakgrund
